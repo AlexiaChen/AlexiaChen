@@ -7,5 +7,8 @@ In my spare time, I like to learn some math, but I also know some cryptography, 
 
 #### Github Stats
 
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaChen&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) | ![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexiaChen&theme=dracula) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexiaChen&theme=dracula)
