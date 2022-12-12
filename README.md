@@ -1,6 +1,8 @@
 ### Hi there 👋， I am Alex Chen, Chinese.
 
  To be a Problem solver, coding just for fun.
+ 
+ Read and write lots of code, clone existing things as exercises, learn deeply.  - John Carmack
 
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
