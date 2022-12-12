@@ -2,7 +2,7 @@
 
  To be a problem solver, Coding just for fun.
  
- Read and write lots of code, clone existing things as exercises, learn deeply.  - John Carmack
+ Read and write lots of code, clone existing things as exercises, learn deeply.  - [John Carmack](https://twitter.com/ID_AA_Carmack/status/735315594262745088)
 
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
