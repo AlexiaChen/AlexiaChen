@@ -5,6 +5,8 @@
  Read and write lots of code, clone existing things as exercises, learn deeply.  - [John Carmack](https://twitter.com/ID_AA_Carmack/status/735315594262745088)
  
  Most of my programming career has involved finding something neat, writing my own version to understand it & often throwing it away. - [Edward Kmett](https://twitter.com/kmett/status/738675156583866370)
+ 
+ I program those "clones" like I read papers: change a core part; redesign it. Gain progress or understanding why it is what it is. - [Edward Kmett](https://twitter.com/kmett/status/738675988972834817)
 
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
