@@ -1,6 +1,6 @@
 ### Hi there 👋， I am Alex Chen, Chinese.
 
- To be a Problem solver, coding just for fun.
+ To be a problem solver, Coding just for fun.
  
  Read and write lots of code, clone existing things as exercises, learn deeply.  - John Carmack
 
