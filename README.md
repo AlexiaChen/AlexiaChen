@@ -1,6 +1,6 @@
 ### Hi there 👋， I am Alex Chen, Chinese.
 
-In my spare time, I like to learn some math, but I also know some cryptography, C/C++, Java, Golang. Currently, I am probably more concerned about Rust, and I am currently working in the blockchain field, and my wish is to build my own Infra with Rust, such as database, blockchain or other similar cryptography libraries.
+ To be a Problem solver, coding just for fun.
 
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
