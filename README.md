@@ -9,6 +9,7 @@
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
 * Github: https://github.com/AlexiaChen
+* Wechat: mathxh
 
 #### Github Stats
 
