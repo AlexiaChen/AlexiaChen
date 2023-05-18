@@ -11,6 +11,8 @@
 * Github: https://github.com/AlexiaChen
 * Wechat: mathxh
 
+* 如果您觉得我写的博客和笔记，还有个人项目对您有帮助的话，如果方便又合适，能不能帮我介绍个合适的远程办公的工作岗位(长期有效)
+
 #### Github Stats
 
 | [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) | ![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexiaChen&theme=dracula) |
