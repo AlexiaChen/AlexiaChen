@@ -6,6 +6,7 @@
  
  I program those "clones" like I read papers: change a core part; redesign it. Gain progress or understanding why it is what it is. - [Edward Kmett](https://twitter.com/kmett/status/738675988972834817)
 
+* My resume: https://alexiaChen.github.io/resume.html https://alexiaChen.github.io/resume.pdf
 * Blog: https://github.com/AlexiaChen/AlexiaChen.github.io/issues
 * Learning Notes: https://github.com/AlexiaChen/my-notes
 * Github: https://github.com/AlexiaChen
