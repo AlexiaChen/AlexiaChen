@@ -12,7 +12,6 @@
 * Github: https://github.com/AlexiaChen
 * Wechat: mathxh
 
-* 如果您觉得我写的博客和笔记，还有个人项目对您有帮助并且与贵司的业务还算匹配的话，如果方便，能不能帮我介绍个合适的远程办公的工作岗位。兼职也可。谢谢！(长期有效)
 * If you find my blog posts, notes, and personal projects helpful and relevant to your company's business, would it be possible for you to refer me to a suitable remote job position? Part-time work is also acceptable. Thank you! (This request will be valid for a long time)
 
 #### Github Stats
