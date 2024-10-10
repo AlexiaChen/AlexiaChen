@@ -16,8 +16,14 @@
 
 #### Github Stats
 
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) | ![github Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexiaChen&theme=dracula) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
+#### Language Skills
+
+**Skills:**  
+
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /></code>
 
 
