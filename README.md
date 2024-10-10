@@ -26,4 +26,9 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /></code>
 
+#### DataBase Skills
+
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sqlite.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/redis.svg" /></code>
 
