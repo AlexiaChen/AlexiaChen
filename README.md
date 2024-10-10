@@ -28,15 +28,8 @@
 
 #### Other Skills
 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sqlite.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/redis.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/qt.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachecloudstack.svg" /></code>
+
 
 
 
