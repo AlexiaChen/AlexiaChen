@@ -16,7 +16,7 @@
 
 #### Github Stats
 
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### Language Skills
 
