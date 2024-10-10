@@ -26,10 +26,6 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /></code>
 
-#### Framework Skills
-
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gin.svg" /></code>
-
 #### Other Skills
 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" /></code>
