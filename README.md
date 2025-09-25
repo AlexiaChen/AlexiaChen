@@ -10,7 +10,6 @@
 * Github: https://github.com/AlexiaChen
 * Wechat: mathxh
 
-* If you find my blog posts, notes, and personal projects helpful and relevant to your company's business, would it be possible for you to refer me to a suitable remote job position? Part-time work is also acceptable. Thank you! (This request will be valid for a long time)
 
 #### Github Stats
 
