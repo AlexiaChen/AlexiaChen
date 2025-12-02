@@ -10,11 +10,6 @@
 * Github: https://github.com/AlexiaChen
 * Wechat: mathxh
 
-
-#### Github Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlexiaChen&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
-
 #### Language Skills
 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code>
