@@ -10,6 +10,7 @@
 * Github: https://github.com/AlexiaChen
 * Wechat: mathxh
 
+* Skills
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /></code>
