@@ -12,6 +12,7 @@
 
 ## Skills
 
+<code><img height="32" width="32" src="https://app.unpkg.com/simple-icons@16.15.0/files/icons/claude.svg"/></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
@@ -21,6 +22,8 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" /></code>
+<code><img height="32" width="32" src="https://app.unpkg.com/simple-icons@16.15.0/files/icons/vuedotjs.svg"/></code>
+<code><img height="32" width="32" src="https://app.unpkg.com/simple-icons@16.15.0/files/icons/react.svg"/></code>
 
 
 
