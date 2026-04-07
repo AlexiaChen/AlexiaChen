@@ -21,10 +21,12 @@
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@3.13.0/icons/csharp.svg"/></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" /></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/vuedotjs.svg"/></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/react.svg"/></code>
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/kubernetes.svg"/></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/ethereum.svg"/></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" /></code>
+
 
 
 
