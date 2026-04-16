@@ -12,25 +12,4 @@
 
 ## Skills
 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/claude.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/go.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/rust.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@3.13.0/icons/csharp.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/typescript.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/vuedotjs.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/react.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/kubernetes.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@16.15.0/icons/ethereum.svg"/></code>
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" /></code>
-
-
-
-
-
-
-
-
+ Claude Code, Python, C/C++, Go, Rust, C#, JavaScript/TypeScript, Vue, React, K8s, Ethereum, Linux
