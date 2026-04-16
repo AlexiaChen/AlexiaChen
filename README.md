@@ -1,4 +1,4 @@
-### Hi there 👋， I am Alex Chen, Chinese.
+### Hi there 👋， I am Alex Chen.
  
  Read and write lots of code, clone existing things as exercises, learn deeply.  - [John Carmack](https://twitter.com/ID_AA_Carmack/status/735315594262745088)
  
