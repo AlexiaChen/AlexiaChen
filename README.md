@@ -12,4 +12,5 @@
 
 ## Skills
 
- Claude Code/Copilot CLI, C/C++, Go, Python, Rust, C#, JavaScript/TypeScript, Java, Vue, React, K8s, BlockChain, Cryptography, Linux
+- Claude Code/Copilot CLI With Harness Engineering
+- C/C++, Go, Python, Rust, C#, JavaScript/TypeScript, Java, Vue, React, K8s, BlockChain, Cryptography, Linux
